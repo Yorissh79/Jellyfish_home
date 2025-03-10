@@ -263,6 +263,7 @@
                 height: 93%;
                 width: 33.3333%;
                 border: 1px solid black;
+                overflow: hidden;
 
                 .s_img_box {
                     width: 100%;
@@ -371,6 +372,8 @@
 
             .c_card {
                 display: flex;
+                border-radius: 5px;
+                overflow: hidden;
                 align-items: center;
                 flex-direction: column;
                 justify-content: space-between;
@@ -457,6 +460,8 @@
                 height: 93%;
                 width: 33.3333%;
                 border: 1px solid black;
+                border-radius: 5px;
+                overflow: hidden;
 
                 .s_img_box {
                     width: 100%;
